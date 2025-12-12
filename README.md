@@ -1,1 +1,1 @@
-# hesap-makinesi
+python ile hesap makinesi
